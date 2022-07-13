@@ -1,2 +1,2 @@
-# L_SU_demos
+# SeismicUnix_demos
 Example data sets and flows for use with SeismicUnixGui
